@@ -1,0 +1,138 @@
+{
+    "left":[
+        {
+          "icon": "favorite",
+          "route": "/recipe/myrecipe",
+          "title": "My Recipe",
+          "subtitle": "I love my recipe"
+        },
+        {
+          "icon": "local_dining",
+          "route": "/recipe",
+          "title": "All Recipe",
+          "subtitle": "I love food"
+        }
+      ],
+    "right":[
+        {
+          "icon": "home",
+          "route": "/",
+          "title": "Home",
+          "subtitle": ""
+        },
+        {
+          "icon": "search",
+          "route": "/search",
+          "title": "Search",
+          "subtitle": ""
+        },
+        {
+          "icon": "library_add",
+          "route": "/recipe/add",
+          "title": "Add",
+          "subtitle": ""
+        },
+        {
+          "icon": "group",
+          "route": "/friends",
+          "title": "Friends",
+          "subtitle": ""
+        },
+        {
+          "icon": "person_outline",
+          "route": "/profile",
+          "title": "Profile",
+          "subtitle": ""
+        }
+      ],
+      "easyMenu":[
+        {
+          "icon": "home",
+          "route": "/",
+          "title": "Home",
+          "subtitle": ""
+        },
+        {
+          "icon": "search",
+          "route": "/search",
+          "title": "Search",
+          "subtitle": ""
+        },
+        {
+          "icon": "library_add",
+          "route": "/recipe/add",
+          "title": "Add",
+          "subtitle": ""
+        },
+        {
+          "icon": "group",
+          "route": "/friends",
+          "title": "Friends",
+          "subtitle": ""
+        },
+        {
+          "icon": "person_outline",
+          "route": "/profile",
+          "title": "Profile",
+          "subtitle": ""
+        }
+      ],
+    "footer": [
+      {
+        "icon": " ",
+        "route": " ",
+        "title": "What we are?",
+        "subMenu": [
+          {
+            "icon": " ",
+            "route": "/blog",
+            "title": "Blog"
+          },
+          {
+            "icon": " ",
+            "route": "/about",
+            "title": "About Us"
+          }
+        ]
+      },
+      {
+        "icon": " ",
+        "route": " ",
+        "title": "Social",
+        "subMenu": [
+          {
+            "icon": " ",
+            "route": " ",
+            "title": "Facebook"
+          },
+          {
+            "icon": " ",
+            "route": " ",
+            "title": "Instagram"
+          },
+          {
+            "icon": " ",
+            "route": " ",
+            "title": "You Tube"
+          }
+        ]
+      },
+      {
+        "icon": " ",
+        "route": " ",
+        "title": "Contact Us",
+        "subMenu": [
+          {
+            "icon": " ",
+            "route": "",
+            "title": "contact@recipe.com"
+          },
+          {
+            "icon": " ",
+            "route": "",
+            "title": "+91 70262 17029"
+          }
+        ]
+      }
+    ]
+}

@@ -1,0 +1,1015 @@
+[
+    {
+      "id": 1,
+      "user": {
+        "avtar": "https://cdn.quasar.dev/img/boy-avatar.png",
+        "name": "Jiwan",
+        "location": "Hydrabad"
+      },
+      "title": "Donuts",
+      "subTitle": "Choclate Donuts",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do",
+      "rating": 3,
+      "preprationTime": 10,
+      "cookTime": 15,
+      "fullscreen":false,
+      "carousels": [
+        {
+          "name": 1,
+          "image": "https://cdn.quasar.dev/img/donuts.png"
+        }
+      ],
+      "ingradients": [
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Jira",
+          "subLabel": "One table spoon of jira"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        }
+      ],
+      "steps": [
+        {
+          "name": "Step0",
+          "time": "00 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "exposure_zero",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step1",
+          "time": "01 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step2",
+          "time": "05 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step3",
+          "time": "10 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2017/01/31/09/30/raspberry-2023404_1280.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step4",
+          "time": "15 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2010/12/13/10/05/background-2277_1280.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step5",
+          "time": "20 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_1280.jpg",
+          "icon": "done_all",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "user": {
+        "avtar": "https://cdn.quasar.dev/img/boy-avatar.png",
+        "name": "Shashank",
+        "location": "Hydrabad"
+      },
+      "title": "Berry",
+      "subTitle": "Raspberry with chease",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do",
+      "rating": 4,
+      "preprationTime": 10,
+      "cookTime": 15,
+      "carousels": [
+        {
+          "name": 1,
+          "image": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg"
+        },
+        {
+          "name": 2,
+          "image": "https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_1280.jpg"
+        },
+        {
+          "name": 3,
+          "image": "https://cdn.pixabay.com/photo/2010/12/13/10/05/background-2277_1280.jpg"
+        },
+        {
+          "name": 4,
+          "image": "https://cdn.pixabay.com/photo/2017/01/31/09/30/raspberry-2023404_1280.jpg"
+        }
+      ],
+      "ingradients": [
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Jira",
+          "subLabel": "One table spoon of jira"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        }
+      ],
+      "steps": [
+        {
+          "name": "Step0",
+          "time": "00 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "exposure_zero",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step1",
+          "time": "01 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step2",
+          "time": "05 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step3",
+          "time": "10 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2017/01/31/09/30/raspberry-2023404_1280.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step4",
+          "time": "15 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2010/12/13/10/05/background-2277_1280.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step5",
+          "time": "20 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_1280.jpg",
+          "icon": "done_all",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "user": {
+        "avtar": "https://cdn.quasar.dev/img/boy-avatar.png",
+        "name": "Shashank",
+        "location": "Hydrabad"
+      },
+      "title": "Donuts",
+      "subTitle": "Choclate Donuts",
+      "rating": 4,
+      "preprationTime": 10,
+      "cookTime": 15,
+      "carousels": [
+        {
+          "name": 1,
+          "image": "https://cdn.pixabay.com/photo/2015/10/02/15/59/olive-oil-968657_1280.jpg"
+        },
+        {
+          "name": 2,
+          "image": "https://cdn.pixabay.com/photo/2014/06/11/17/00/cook-366875_1280.jpg"
+        },
+        {
+          "name": 3,
+          "image": "https://cdn.pixabay.com/photo/2017/03/10/13/57/cooking-2132874_1280.jpg"
+        },
+        {
+          "name": 4,
+          "image": "https://cdn.pixabay.com/photo/2016/02/05/15/34/pasta-1181189_1280.jpg"
+        }
+      ],
+      "ingradients": [
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Jira",
+          "subLabel": "One table spoon of jira"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "user": {
+        "avtar": "https://cdn.quasar.dev/img/boy-avatar.png",
+        "name": "Shashank",
+        "location": "Hydrabad"
+      },
+      "title": "Donuts",
+      "subTitle": "Choclate Donuts",
+      "rating": 4,
+      "preprationTime": 10,
+      "cookTime": 15,
+      "carousels": [
+        {
+          "name": 1,
+          "image": "https://cdn.pixabay.com/photo/2015/03/26/09/39/cupcakes-690040_1280.jpg"
+        },
+        {
+          "name": 2,
+          "image": "https://cdn.pixabay.com/photo/2017/01/16/17/45/pancake-1984716_1280.jpg"
+        },
+        {
+          "name": 3,
+          "image": "https://cdn.pixabay.com/photo/2014/07/22/09/59/bread-399286_1280.jpg"
+        },
+        {
+          "name": 4,
+          "image": "https://cdn.pixabay.com/photo/2017/05/07/08/56/pancakes-2291908_1280.jpg"
+        }
+      ],
+      "ingradients": [
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Jira",
+          "subLabel": "One table spoon of jira"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "user": {
+        "avtar": "https://cdn.quasar.dev/img/boy-avatar.png",
+        "name": "Jiwan",
+        "location": "Hydrabad"
+      },
+      "title": "Donuts",
+      "subTitle": "Choclate Donuts",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do",
+      "rating": 3,
+      "preprationTime": 10,
+      "cookTime": 15,
+      "fullscreen":false,
+      "carousels": [
+        {
+          "name": 1,
+          "image": "https://cdn.quasar.dev/img/donuts.png"
+        }
+      ],
+      "ingradients": [
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Jira",
+          "subLabel": "One table spoon of jira"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        }
+      ],
+      "steps": [
+        {
+          "name": "Step0",
+          "time": "00 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "exposure_zero",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step1",
+          "time": "01 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step2",
+          "time": "05 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step3",
+          "time": "10 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2017/01/31/09/30/raspberry-2023404_1280.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step4",
+          "time": "15 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2010/12/13/10/05/background-2277_1280.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step5",
+          "time": "20 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_1280.jpg",
+          "icon": "done_all",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "user": {
+        "avtar": "https://cdn.quasar.dev/img/boy-avatar.png",
+        "name": "Shashank",
+        "location": "Hydrabad"
+      },
+      "title": "Berry",
+      "subTitle": "Raspberry with chease",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do",
+      "rating": 4,
+      "preprationTime": 10,
+      "cookTime": 15,
+      "carousels": [
+        {
+          "name": 1,
+          "image": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg"
+        },
+        {
+          "name": 2,
+          "image": "https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_1280.jpg"
+        },
+        {
+          "name": 3,
+          "image": "https://cdn.pixabay.com/photo/2010/12/13/10/05/background-2277_1280.jpg"
+        },
+        {
+          "name": 4,
+          "image": "https://cdn.pixabay.com/photo/2017/01/31/09/30/raspberry-2023404_1280.jpg"
+        }
+      ],
+      "ingradients": [
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Jira",
+          "subLabel": "One table spoon of jira"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        }
+      ],
+      "steps": [
+        {
+          "name": "Step0",
+          "time": "00 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "exposure_zero",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step1",
+          "time": "01 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step2",
+          "time": "05 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step3",
+          "time": "10 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2017/01/31/09/30/raspberry-2023404_1280.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step4",
+          "time": "15 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2010/12/13/10/05/background-2277_1280.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step5",
+          "time": "20 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_1280.jpg",
+          "icon": "done_all",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "user": {
+        "avtar": "https://cdn.quasar.dev/img/boy-avatar.png",
+        "name": "Shashank",
+        "location": "Hydrabad"
+      },
+      "title": "Berry",
+      "subTitle": "Raspberry with chease",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do",
+      "rating": 4,
+      "preprationTime": 10,
+      "cookTime": 15,
+      "carousels": [
+        {
+          "name": 1,
+          "image": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg"
+        },
+        {
+          "name": 2,
+          "image": "https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_1280.jpg"
+        },
+        {
+          "name": 3,
+          "image": "https://cdn.pixabay.com/photo/2010/12/13/10/05/background-2277_1280.jpg"
+        },
+        {
+          "name": 4,
+          "image": "https://cdn.pixabay.com/photo/2017/01/31/09/30/raspberry-2023404_1280.jpg"
+        }
+      ],
+      "ingradients": [
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Jira",
+          "subLabel": "One table spoon of jira"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        }
+      ],
+      "steps": [
+        {
+          "name": "Step0",
+          "time": "00 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "exposure_zero",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step1",
+          "time": "01 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step2",
+          "time": "05 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step3",
+          "time": "10 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2017/01/31/09/30/raspberry-2023404_1280.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step4",
+          "time": "15 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2010/12/13/10/05/background-2277_1280.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step5",
+          "time": "20 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_1280.jpg",
+          "icon": "done_all",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "user": {
+        "avtar": "https://cdn.quasar.dev/img/boy-avatar.png",
+        "name": "Shashank",
+        "location": "Hydrabad"
+      },
+      "title": "Donuts",
+      "subTitle": "Choclate Donuts",
+      "rating": 4,
+      "preprationTime": 10,
+      "cookTime": 15,
+      "carousels": [
+        {
+          "name": 1,
+          "image": "https://cdn.pixabay.com/photo/2015/03/26/09/39/cupcakes-690040_1280.jpg"
+        },
+        {
+          "name": 2,
+          "image": "https://cdn.pixabay.com/photo/2017/01/16/17/45/pancake-1984716_1280.jpg"
+        },
+        {
+          "name": 3,
+          "image": "https://cdn.pixabay.com/photo/2014/07/22/09/59/bread-399286_1280.jpg"
+        },
+        {
+          "name": 4,
+          "image": "https://cdn.pixabay.com/photo/2017/05/07/08/56/pancakes-2291908_1280.jpg"
+        }
+      ],
+      "ingradients": [
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Jira",
+          "subLabel": "One table spoon of jira"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "user": {
+        "avtar": "https://cdn.quasar.dev/img/boy-avatar.png",
+        "name": "Shashank",
+        "location": "Hydrabad"
+      },
+      "title": "Berry",
+      "subTitle": "Raspberry with chease",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do",
+      "rating": 4,
+      "preprationTime": 10,
+      "cookTime": 15,
+      "carousels": [
+        {
+          "name": 1,
+          "image": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg"
+        },
+        {
+          "name": 2,
+          "image": "https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_1280.jpg"
+        },
+        {
+          "name": 3,
+          "image": "https://cdn.pixabay.com/photo/2010/12/13/10/05/background-2277_1280.jpg"
+        },
+        {
+          "name": 4,
+          "image": "https://cdn.pixabay.com/photo/2017/01/31/09/30/raspberry-2023404_1280.jpg"
+        }
+      ],
+      "ingradients": [
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Jira",
+          "subLabel": "One table spoon of jira"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        }
+      ],
+      "steps": [
+        {
+          "name": "Step0",
+          "time": "00 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "exposure_zero",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step1",
+          "time": "01 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step2",
+          "time": "05 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step3",
+          "time": "10 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2017/01/31/09/30/raspberry-2023404_1280.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step4",
+          "time": "15 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2010/12/13/10/05/background-2277_1280.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step5",
+          "time": "20 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_1280.jpg",
+          "icon": "done_all",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "user": {
+        "avtar": "https://cdn.quasar.dev/img/boy-avatar.png",
+        "name": "Shashank",
+        "location": "Hydrabad"
+      },
+      "title": "Berry",
+      "subTitle": "Raspberry with chease",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do",
+      "rating": 4,
+      "preprationTime": 10,
+      "cookTime": 15,
+      "carousels": [
+        {
+          "name": 1,
+          "image": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg"
+        },
+        {
+          "name": 2,
+          "image": "https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_1280.jpg"
+        },
+        {
+          "name": 3,
+          "image": "https://cdn.pixabay.com/photo/2010/12/13/10/05/background-2277_1280.jpg"
+        },
+        {
+          "name": 4,
+          "image": "https://cdn.pixabay.com/photo/2017/01/31/09/30/raspberry-2023404_1280.jpg"
+        }
+      ],
+      "ingradients": [
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Jira",
+          "subLabel": "One table spoon of jira"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        }
+      ],
+      "steps": [
+        {
+          "name": "Step0",
+          "time": "00 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "exposure_zero",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step1",
+          "time": "01 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step2",
+          "time": "05 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step3",
+          "time": "10 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2017/01/31/09/30/raspberry-2023404_1280.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step4",
+          "time": "15 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2010/12/13/10/05/background-2277_1280.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step5",
+          "time": "20 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_1280.jpg",
+          "icon": "done_all",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "user": {
+        "avtar": "https://cdn.quasar.dev/img/boy-avatar.png",
+        "name": "Shashank",
+        "location": "Hydrabad"
+      },
+      "title": "Berry",
+      "subTitle": "Raspberry with chease",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do",
+      "rating": 4,
+      "preprationTime": 10,
+      "cookTime": 15,
+      "carousels": [
+        {
+          "name": 1,
+          "image": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg"
+        },
+        {
+          "name": 2,
+          "image": "https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_1280.jpg"
+        },
+        {
+          "name": 3,
+          "image": "https://cdn.pixabay.com/photo/2010/12/13/10/05/background-2277_1280.jpg"
+        },
+        {
+          "name": 4,
+          "image": "https://cdn.pixabay.com/photo/2017/01/31/09/30/raspberry-2023404_1280.jpg"
+        }
+      ],
+      "ingradients": [
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Jira",
+          "subLabel": "One table spoon of jira"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        },
+        {
+          "icon": "brightness_1",
+          "color": "primary",
+          "label": "Salt",
+          "subLabel": "One table spoon salt"
+        }
+      ],
+      "steps": [
+        {
+          "name": "Step0",
+          "time": "00 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "exposure_zero",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step1",
+          "time": "01 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step2",
+          "time": "05 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step3",
+          "time": "10 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2017/01/31/09/30/raspberry-2023404_1280.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step4",
+          "time": "15 min",
+          "side": "left",
+          "img": "https://cdn.pixabay.com/photo/2010/12/13/10/05/background-2277_1280.jpg",
+          "icon": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        },
+        {
+          "name": "Step5",
+          "time": "20 min",
+          "side": "right",
+          "img": "https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_1280.jpg",
+          "icon": "done_all",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n          eiusmod tempor incididunt ut labor"
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,25 @@
+[
+  {
+    "label": "Jira",
+    "body": "link",
+    "link": "https://static.thespicehouse.com/images/file/1313/large_square_Indian_Cumin_Seed__Whole__close.jpg",
+    "enabled":true,
+    "avatar": "https://static.thespicehouse.com/images/file/1313/large_square_Indian_Cumin_Seed__Whole__close.jpg"
+  },
+  {
+    "label": "Cardamom",
+    "avatar": "https://static.thespicehouse.com/images/file/281/large_square_Green_Cardamom__Whole_Fancy_Pods__close.jpg"
+  },
+  {
+    "label": "Ginger",
+    "avatar": "https://www.planetorganic.com/images/products/large/10081.jpg"
+  },
+  {
+    "label": "Turmeric",
+    "avatar": "https://cdn-prod.medicalnewstoday.com/content/images/articles/318/318405/turmeric-root-and-powder.jpg"
+  },
+  {
+    "label": "Honey",
+    "avatar": "https://cdn.shopify.com/s/files/1/1515/9256/products/honey_e0ad6672-b59f-43b5-bb63-2225a95034c5_large.png?v=1507803853"
+  }
+]

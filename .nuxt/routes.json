@@ -1,0 +1,128 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/stchr/Documents/all/repo/recipe/src/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_8a8a9cba"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "/Users/stchr/Documents/all/repo/recipe/src/pages/blog/index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_9f76ce02"
+  },
+  {
+    "name": "feedback",
+    "path": "/feedback",
+    "component": "/Users/stchr/Documents/all/repo/recipe/src/pages/feedback.vue",
+    "chunkName": "pages/feedback",
+    "_name": "_ff0a7e42"
+  },
+  {
+    "name": "friends",
+    "path": "/friends",
+    "component": "/Users/stchr/Documents/all/repo/recipe/src/pages/friends.vue",
+    "chunkName": "pages/friends",
+    "_name": "_4aac0c2b"
+  },
+  {
+    "name": "notification",
+    "path": "/notification",
+    "component": "/Users/stchr/Documents/all/repo/recipe/src/pages/notification.vue",
+    "chunkName": "pages/notification",
+    "_name": "_6e89ca45"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "/Users/stchr/Documents/all/repo/recipe/src/pages/profile/index.vue",
+    "chunkName": "pages/profile/index",
+    "_name": "_21e684fc"
+  },
+  {
+    "name": "recipe",
+    "path": "/recipe",
+    "component": "/Users/stchr/Documents/all/repo/recipe/src/pages/recipe/index.vue",
+    "chunkName": "pages/recipe/index",
+    "_name": "_325dc12a"
+  },
+  {
+    "name": "search",
+    "path": "/search",
+    "component": "/Users/stchr/Documents/all/repo/recipe/src/pages/search.vue",
+    "chunkName": "pages/search",
+    "_name": "_1f9dda02"
+  },
+  {
+    "name": "subscriptions",
+    "path": "/subscriptions",
+    "component": "/Users/stchr/Documents/all/repo/recipe/src/pages/subscriptions.vue",
+    "chunkName": "pages/subscriptions",
+    "_name": "_0bb39e8c"
+  },
+  {
+    "name": "auth-sign-in",
+    "path": "/auth/sign-in",
+    "component": "/Users/stchr/Documents/all/repo/recipe/src/pages/auth/sign-in.vue",
+    "chunkName": "pages/auth/sign-in",
+    "_name": "_b73ea4b0"
+  },
+  {
+    "name": "auth-sign-up",
+    "path": "/auth/sign-up",
+    "component": "/Users/stchr/Documents/all/repo/recipe/src/pages/auth/sign-up.vue",
+    "chunkName": "pages/auth/sign-up",
+    "_name": "_8e11f7c4"
+  },
+  {
+    "name": "profile-edit",
+    "path": "/profile/edit",
+    "component": "/Users/stchr/Documents/all/repo/recipe/src/pages/profile/edit.vue",
+    "chunkName": "pages/profile/edit",
+    "_name": "_aa7ea4ec"
+  },
+  {
+    "name": "recipe-add",
+    "path": "/recipe/add",
+    "component": "/Users/stchr/Documents/all/repo/recipe/src/pages/recipe/add.vue",
+    "chunkName": "pages/recipe/add",
+    "_name": "_ccab880c"
+  },
+  {
+    "name": "recipe-edit",
+    "path": "/recipe/edit",
+    "component": "/Users/stchr/Documents/all/repo/recipe/src/pages/recipe/edit.vue",
+    "chunkName": "pages/recipe/edit",
+    "_name": "_4763ea81"
+  },
+  {
+    "name": "recipe-myrecipe",
+    "path": "/recipe/myrecipe",
+    "component": "/Users/stchr/Documents/all/repo/recipe/src/pages/recipe/myrecipe.vue",
+    "chunkName": "pages/recipe/myrecipe",
+    "_name": "_2a52619e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/stchr/Documents/all/repo/recipe/src/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4b1ae730"
+  },
+  {
+    "name": "recipe-id",
+    "path": "/recipe/:id",
+    "component": "/Users/stchr/Documents/all/repo/recipe/src/pages/recipe/_id.vue",
+    "chunkName": "pages/recipe/_id",
+    "_name": "_38660093"
+  },
+  {
+    "name": "*",
+    "path": "/*",
+    "component": "/Users/stchr/Documents/all/repo/recipe/src/pages/*.vue",
+    "chunkName": "pages/*",
+    "_name": "_57dca6c0"
+  }
+]

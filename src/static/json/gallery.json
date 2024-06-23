@@ -1,0 +1,35 @@
+[
+    {
+      "name": "North Indian",
+      "items": [
+        { "itemId":1, "type":"img", "class":"col-12 col-sm-4", "src":"https://cdn.pixabay.com/photo/2014/06/11/17/00/cook-366875_1280.jpg"},
+        { "itemId":2, "type":"img", "class":"col-12 col-sm-6", "src":"https://cdn.pixabay.com/photo/2017/03/10/13/57/cooking-2132874_1280.jpg"},
+        { "itemId":4, "type":"img", "class":"col-12 col-sm-2", "src":"https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_1280.jpg"},
+        { "itemId":5, "type":"img", "class":"col-12 col-sm-2", "src":"https://cdn.pixabay.com/photo/2010/12/13/10/05/background-2277_1280.jpg"},
+        { "itemId":8, "type":"img", "class":"col-12 col-sm-4", "src":"https://cdn.pixabay.com/photo/2017/01/31/09/30/raspberry-2023404_1280.jpg"},
+        { "itemId":3, "type":"video", "class":"col-12 col-sm-6", "src":"https://www.youtube.com/watch?v=hjGX0vsBaV0"}
+      ]
+    },
+    {
+      "name": "South Indian",
+      "items": [
+        { "itemId":1, "type":"img", "class":"col-12 col-sm-4", "src":"https://cdn.pixabay.com/photo/2014/06/11/17/00/cook-366875_1280.jpg"},
+        { "itemId":2, "type":"img", "class":"col-12 col-sm-6", "src":"https://cdn.pixabay.com/photo/2017/03/10/13/57/cooking-2132874_1280.jpg"},
+        { "itemId":5, "type":"img", "class":"col-12 col-sm-2", "src":"https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_1280.jpg"},
+        { "itemId":1, "type":"img", "class":"col-12 col-sm-2", "src":"https://cdn.pixabay.com/photo/2010/12/13/10/05/background-2277_1280.jpg"},
+        { "itemId":5, "type":"img", "class":"col-12 col-sm-4", "src":"https://cdn.pixabay.com/photo/2017/01/31/09/30/raspberry-2023404_1280.jpg"},
+        { "itemId":9, "type":"video", "class":"col-12 col-sm-6", "src":"https://www.youtube.com/watch?v=hjGX0vsBaV0"}
+      ]
+    },
+    {
+      "name": "Italian",
+      "items": [
+        { "itemId":11, "type":"img", "class":"col-12 col-sm-4", "src":"https://cdn.pixabay.com/photo/2014/06/11/17/00/cook-366875_1280.jpg"},
+        { "itemId":8, "type":"img", "class":"col-12 col-sm-6", "src":"https://cdn.pixabay.com/photo/2017/03/10/13/57/cooking-2132874_1280.jpg"},
+        { "itemId":3, "type":"img", "class":"col-12 col-sm-2", "src":"https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_1280.jpg"},
+        { "itemId":7, "type":"img", "class":"col-12 col-sm-2", "src":"https://cdn.pixabay.com/photo/2010/12/13/10/05/background-2277_1280.jpg"},
+        { "itemId":5, "type":"img", "class":"col-12 col-sm-4", "src":"https://cdn.pixabay.com/photo/2017/01/31/09/30/raspberry-2023404_1280.jpg"},
+        { "itemId":4, "type":"video", "class":"col-12 col-sm-6", "src":"https://www.youtube.com/watch?v=hjGX0vsBaV0"}
+      ]
+    }
+  ]
